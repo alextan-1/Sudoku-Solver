@@ -1,2 +1,2 @@
 # Sudoku-Solver
-Algorithm to solve sudoku puzzles
+Given a valid sudoku puzzle, the program solves the puzzle using backtracking algorithm.
